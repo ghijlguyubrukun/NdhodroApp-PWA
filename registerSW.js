@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/ndhodroapppwa/sw.js', { scope: '/ndhodroapppwa/' })})}
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/NdhodroApp-PWA/sw.js', { scope: '/NdhodroApp-PWA/' })})}
